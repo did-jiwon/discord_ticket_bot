@@ -1,0 +1,20 @@
+{
+	"name": "discord-bot-test",
+	"version": "0.0.5",
+	"description": "Discord bot test project.",
+	"main": "index.js",
+	"scripts": {
+		"start": "node server.js",
+		"creg": "node deploy-commands.js",
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"author": "",
+	"license": "ISC",
+	"dependencies": {
+		"@discordjs/builders": "^0.12.0",
+		"@discordjs/rest": "^0.3.0",
+		"discord-api-types": "^0.27.3",
+		"discord.js": "^13.6.0",
+		"dotenv": "^16.0.0"
+	}
+}
