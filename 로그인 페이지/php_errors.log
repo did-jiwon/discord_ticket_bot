@@ -1,0 +1,65 @@
+[28-May-2021 19:14:01 Asia/Seoul] PHP Parse error:  syntax error, unexpected '<', expecting end of file in D:\web_lesson\wl0006\새 디렉터리\login.php on line 2
+[28-May-2021 19:14:40 Asia/Seoul] PHP Parse error:  syntax error, unexpected '<', expecting end of file in D:\web_lesson\wl0006\새 디렉터리\login.php on line 2
+[28-May-2021 19:35:58 Asia/Seoul] PHP Parse error:  syntax error, unexpected 'msg' (T_STRING), expecting ';' or ',' in D:\web_lesson\wl0006\새 디렉터리\login.php on line 3
+[29-May-2021 15:28:35 Asia/Seoul] PHP Fatal error:  Uncaught Error: Call to undefined function session_statue() in D:\web_lesson\wl0006\새 디렉터리\member-edit.php:2
+Stack trace:
+#0 {main}
+  thrown in D:\web_lesson\wl0006\새 디렉터리\member-edit.php on line 2
+[29-May-2021 15:29:32 Asia/Seoul] PHP Parse error:  syntax error, unexpected ''userId] ?>" required/>' (T_ENCAPSED_AND_WHITESPACE), expecting ']' in D:\web_lesson\wl0006\새 디렉터리\member-edit.php on line 25
+[29-May-2021 15:30:48 Asia/Seoul] PHP Fatal error:  Uncaught Error: Call to undefined function session_statue() in D:\web_lesson\wl0006\새 디렉터리\member-edit.php:2
+Stack trace:
+#0 {main}
+  thrown in D:\web_lesson\wl0006\새 디렉터리\member-edit.php on line 2
+[29-May-2021 15:36:03 Asia/Seoul] PHP Fatal error:  Uncaught Error: Call to undefined function session_statue() in D:\web_lesson\wl0006\새 디렉터리\logout.php:2
+Stack trace:
+#0 {main}
+  thrown in D:\web_lesson\wl0006\새 디렉터리\logout.php on line 2
+[29-May-2021 15:36:28 Asia/Seoul] PHP Fatal error:  Uncaught Error: Call to undefined function session_statue() in D:\web_lesson\wl0006\새 디렉터리\logout.php:2
+Stack trace:
+#0 {main}
+  thrown in D:\web_lesson\wl0006\새 디렉터리\logout.php on line 2
+[29-May-2021 15:36:29 Asia/Seoul] PHP Fatal error:  Uncaught Error: Call to undefined function session_statue() in D:\web_lesson\wl0006\새 디렉터리\logout.php:2
+Stack trace:
+#0 {main}
+  thrown in D:\web_lesson\wl0006\새 디렉터리\logout.php on line 2
+[29-May-2021 15:36:29 Asia/Seoul] PHP Fatal error:  Uncaught Error: Call to undefined function session_statue() in D:\web_lesson\wl0006\새 디렉터리\logout.php:2
+Stack trace:
+#0 {main}
+  thrown in D:\web_lesson\wl0006\새 디렉터리\logout.php on line 2
+[29-May-2021 15:36:29 Asia/Seoul] PHP Fatal error:  Uncaught Error: Call to undefined function session_statue() in D:\web_lesson\wl0006\새 디렉터리\logout.php:2
+Stack trace:
+#0 {main}
+  thrown in D:\web_lesson\wl0006\새 디렉터리\logout.php on line 2
+[29-May-2021 15:36:29 Asia/Seoul] PHP Fatal error:  Uncaught Error: Call to undefined function session_statue() in D:\web_lesson\wl0006\새 디렉터리\logout.php:2
+Stack trace:
+#0 {main}
+  thrown in D:\web_lesson\wl0006\새 디렉터리\logout.php on line 2
+[29-May-2021 15:36:34 Asia/Seoul] PHP Fatal error:  Uncaught Error: Call to undefined function session_statue() in D:\web_lesson\wl0006\새 디렉터리\logout.php:2
+Stack trace:
+#0 {main}
+  thrown in D:\web_lesson\wl0006\새 디렉터리\logout.php on line 2
+[29-May-2021 15:38:00 Asia/Seoul] PHP Fatal error:  Uncaught Error: Call to undefined function session_statue() in D:\web_lesson\wl0006\새 디렉터리\logout.php:2
+Stack trace:
+#0 {main}
+  thrown in D:\web_lesson\wl0006\새 디렉터리\logout.php on line 2
+[29-May-2021 15:38:54 Asia/Seoul] PHP Fatal error:  Uncaught Error: Call to undefined function session_statue() in D:\web_lesson\wl0006\새 디렉터리\logout.php:2
+Stack trace:
+#0 {main}
+  thrown in D:\web_lesson\wl0006\새 디렉터리\logout.php on line 2
+[29-May-2021 15:39:05 Asia/Seoul] PHP Fatal error:  Uncaught Error: Call to undefined function session_statue() in D:\web_lesson\wl0006\새 디렉터리\member.php:2
+Stack trace:
+#0 {main}
+  thrown in D:\web_lesson\wl0006\새 디렉터리\member.php on line 2
+[29-May-2021 15:51:28 Asia/Seoul] PHP Fatal error:  Uncaught Error: Call to undefined function session_statue() in D:\web_lesson\wl0006\새 디렉터리\member.php:2
+Stack trace:
+#0 {main}
+  thrown in D:\web_lesson\wl0006\새 디렉터리\member.php on line 2
+[29-May-2021 15:51:37 Asia/Seoul] PHP Fatal error:  Uncaught Error: Call to undefined function session_statue() in D:\web_lesson\wl0006\새 디렉터리\member.php:2
+Stack trace:
+#0 {main}
+  thrown in D:\web_lesson\wl0006\새 디렉터리\member.php on line 2
+[29-May-2021 18:30:39 Asia/Seoul] PHP Fatal error:  Uncaught Error: Class 'DB' not found in D:\web_lesson\wl0006\로그인 페이지\check-db.php:2
+Stack trace:
+#0 {main}
+  thrown in D:\web_lesson\wl0006\로그인 페이지\check-db.php on line 2
+[29-May-2021 18:30:58 Asia/Seoul] PHP Notice:  Array to string conversion in D:\web_lesson\wl0006\로그인 페이지\check-db.php on line 5
